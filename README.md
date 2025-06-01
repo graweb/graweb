@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o [Seu Nome]!
 
-<!--
-**graweb/graweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Sou apaixonado por [tecnologia/hobby/interesse].  
+💻 Atualmente estou trabalhando com [linguagens/tecnologias].  
+🚀 Tenho interesse em [área que te interessa: backend, frontend, IA, etc.].  
+🎯 Sempre busco aprender algo novo e colaborar em projetos de código aberto.
 
-Here are some ideas to get you started:
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [Twitter](https://twitter.com/seu-perfil)
+- [Portfólio](https://seuportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+## 📈 Estatísticas do GitHub:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+---
+
+Obrigado pela visita! 🤓
