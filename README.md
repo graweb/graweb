@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Gustavo Grativol</h2>
+<h2 align="center">Hi there, I'm Gustavo Grativol</h2>
 <h4>
     I am developer innovative solutions capable of bringing relevant changes in a short period of time to transform the business to the next level of success.
 </h4>
