@@ -7,5 +7,5 @@
 
 ## **Visits** :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/SenaJp/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/graweb/count.svg" />
  </p>
