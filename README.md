@@ -37,7 +37,7 @@
 ### Backend & Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,python,nestjs,alpinejs,fastapi,graphql" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,python,nestjs,alpinejs,fastapi,graphql,redis,tauri" alt="Backend Technologies" />
 </p>
 
 ### Databases
@@ -49,7 +49,7 @@
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,vscode,azure,aws,gcp,github,gitlab,bitbucket,grafana,pinia,postman" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,vscode,azure,aws,gcp,github,gitlab,bitbucket,grafana,pinia,postman,rabbitmq" alt="Tools and Platforms" />
 </p>
 
 ---
