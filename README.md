@@ -54,50 +54,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api?username=graweb;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"
- alt="Gustavo Grativol GitHub Stats"
-/>
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=graweb;layout=compact&amp;langs_count=8&amp;hide_border=true"
- alt="Gustavo Grativol Most Used Languages"
-/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
- src="https://streak-stats.demolab.com?user=graweb;hide_border=true"
- alt="Gustavo Grativol GitHub Streak"
-/>
-
-</div>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=graweb;hide_border=true&amp;area=true"
-    alt="Gustavo Grativol Contribution Graph"
-  />
-</p>
-
----
-
 <div align="center">
 
 ### Thanks for visiting! 👋
