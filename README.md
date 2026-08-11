@@ -1,90 +1,63 @@
-<h1 align="center">Gustavo Grativol</h1>
+<h1 align="center">Hi 👋, I'm Gustavo Grativol</h1>
+
+<h3 align="center">
+  Software Developer • Building useful, scalable and innovative solutions
+</h3>
 
 <p align="center">
-  Software Engineer · Backend · Frontend · Databases · Software Architecture
-</p>
-
-<p align="center">
-  Building reliable, maintainable and scalable software.
+  I enjoy transforming ideas into software and building solutions that simplify processes,
+  improve productivity and create real business value.
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Software Engineer focused on designing and building robust applications, with an emphasis on clean architecture, maintainability and long-term scalability.
-
-I enjoy solving complex technical problems, improving existing systems and turning business requirements into simple and effective software solutions.
-
-My interests span software architecture, backend and frontend development, databases, distributed systems and developer tooling.
-
----
-
-## Technologies
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python" alt="Languages" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,vscode" alt="Tools and Platforms" />
-</p>
+* 💻 Software developer passionate about building modern applications
+* 🚀 Focused on creating scalable, maintainable and efficient solutions
+* 🧠 Always learning new technologies and improving software architecture
+* 🛠️ Interested in backend, frontend, databases and developer tools
 
 ---
 
-## GitHub
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python,go,dart,django,flutter" alt="Programming Languages" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,html,css,tailwind,vue,vuetify,bootstrap,css,cypress" alt="Frontend Technologies" />
+</p>
+
+### Backend & Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,python,nestjs,alpinejs,fastapi,graphql,redis,tauri" alt="Backend Technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,mongodb,firebase" alt="Databases" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,vscode,azure,aws,gcp,github,gitlab,bitbucket,grafana,pinia,postman,rabbitmq" alt="Tools and Platforms" />
+</p>
+
+---
 
 <div align="center">
 
-<img
- height="175"
- src="https://github-readme-stats.vercel.app/api?username=graweb&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;rank_icon=github"
- alt="GitHub Stats"
-/>
+### Thanks for visiting! 👋
 
-<img
- height="175"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=graweb&amp;layout=compact&amp;langs_count=8&amp;hide_border=true"
- alt="Most Used Languages"
-/>
+<sub>Always building. Always learning.</sub>
 
 </div>
-
----
-
-## Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=graweb&amp;hide_border=true&amp;area=true"
-    alt="Contribution Activity"
-  />
-</p>
-
----
-
-<p align="center">
-  <sub>Engineering software with simplicity, reliability and purpose.</sub>
-</p>
