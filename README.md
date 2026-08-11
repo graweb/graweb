@@ -25,31 +25,31 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python,go" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python,go,dart,django,flutter" alt="Programming Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vue,vuetify" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,html,css,tailwind,vue,vuetify,bootstrap,css,cypress" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,python,nestjs" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,python,nestjs,alpinejs,fastapi,graphql" alt="Backend Technologies" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb,supabase,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,mongodb,firebase" alt="Databases" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,vscode" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,apple,vscode,azure,aws,gcp,github,gitlab,bitbucket,grafana,pinia,postman" alt="Tools and Platforms" />
 </p>
 
 ---
