@@ -17,7 +17,6 @@
 * 🚀 Focused on creating scalable, maintainable and efficient solutions
 * 🧠 Always learning new technologies and improving software architecture
 * 🛠️ Interested in backend, frontend, databases and developer tools
-* 🔥 Currently building **Forge DB**, a modern desktop database management tool
 
 ---
 
@@ -26,25 +25,25 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python,go" alt="Programming Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vue,vuetify" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,python,nestjs" alt="Backend Technologies" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mariadb,supabase,mongodb" alt="Databases" />
 </p>
 
 ### Tools & Platforms
@@ -61,13 +60,13 @@
 
 <img
  height="180"
- src="https://github-readme-stats.vercel.app/api?username=graweb&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"
+ src="https://github-readme-stats.vercel.app/api?username=graweb;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"
  alt="Gustavo Grativol GitHub Stats"
 />
 
 <img
  height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=graweb&amp;layout=compact&amp;langs_count=8&amp;hide_border=true"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=graweb;layout=compact&amp;langs_count=8&amp;hide_border=true"
  alt="Gustavo Grativol Most Used Languages"
 />
 
@@ -80,7 +79,7 @@
 <div align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=graweb&amp;hide_border=true"
+ src="https://streak-stats.demolab.com?user=graweb;hide_border=true"
  alt="Gustavo Grativol GitHub Streak"
 />
 
@@ -88,29 +87,11 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🐺 Forge DB
-
-A modern desktop database management tool designed to provide a fast and intuitive experience for developers.
-
-**Technologies**
-
-`Next.js` • `TypeScript` • `Tauri`
-
-**Database Support**
-
-`MySQL` • `MariaDB` • `PostgreSQL` • `SQL Server` • `SQLite`
-
-> Forge DB is focused on providing a modern, extensible and developer-friendly experience for working with multiple database engines.
-
----
-
 ## 📈 Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=graweb&amp;hide_border=true&amp;area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=graweb;hide_border=true&amp;area=true"
     alt="Gustavo Grativol Contribution Graph"
   />
 </p>
